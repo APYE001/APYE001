@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Esteban</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-- 🔭 Estoy trabajando como **diseñador grafico**
+- 🔭 Estoy trabajando como **Diseñador grafico**
 
 - 👯 Estoy estudiando programacion en **Argentina Programa**
 
@@ -9,7 +9,7 @@
 
 - 📫 Puedes escribirme a **eauv001@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/apye001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apye001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/estebanxls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="estebanxls" height="30" width="40" /></a>
